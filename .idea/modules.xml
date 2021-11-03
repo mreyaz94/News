@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BlogApp/.idea/BlogApp.iml" filepath="$PROJECT_DIR$/../BlogApp/.idea/BlogApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DBmodel/.idea/DBmodel.iml" filepath="$PROJECT_DIR$/../DBmodel/.idea/DBmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DjangoNews.iml" filepath="$PROJECT_DIR$/.idea/DjangoNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../authproject1/.idea/authproject1.iml" filepath="$PROJECT_DIR$/../authproject1/.idea/authproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blogproject/.idea/blogproject.iml" filepath="$PROJECT_DIR$/../blogproject/.idea/blogproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbvfinalproject/.idea/cbvfinalproject.iml" filepath="$PROJECT_DIR$/../cbvfinalproject/.idea/cbvfinalproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbvproject1/.idea/cbvproject1.iml" filepath="$PROJECT_DIR$/../cbvproject1/.idea/cbvproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbvproject2/.idea/cbvproject2.iml" filepath="$PROJECT_DIR$/../cbvproject2/.idea/cbvproject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbvproject3/.idea/cbvproject3.iml" filepath="$PROJECT_DIR$/../cbvproject3/.idea/cbvproject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cookiesproject/.idea/cookiesproject.iml" filepath="$PROJECT_DIR$/../cookiesproject/.idea/cookiesproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cookiesproject1/.idea/cookiesproject1.iml" filepath="$PROJECT_DIR$/../cookiesproject1/.idea/cookiesproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crudproject/.idea/crudproject.iml" filepath="$PROJECT_DIR$/../crudproject/.idea/crudproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../feedback/.idea/feedback.iml" filepath="$PROJECT_DIR$/../feedback/.idea/feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filterproject/.idea/filterproject.iml" filepath="$PROJECT_DIR$/../filterproject/.idea/filterproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jobportal/.idea/jobportal.iml" filepath="$PROJECT_DIR$/../jobportal/.idea/jobportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moviesproject/.idea/moviesproject.iml" filepath="$PROJECT_DIR$/../moviesproject/.idea/moviesproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sessionproject1/.idea/sessionproject1.iml" filepath="$PROJECT_DIR$/../sessionproject1/.idea/sessionproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sessionproject2/.idea/sessionproject2.iml" filepath="$PROJECT_DIR$/../sessionproject2/.idea/sessionproject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sessionproject3/.idea/sessionproject3.iml" filepath="$PROJECT_DIR$/../sessionproject3/.idea/sessionproject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studentproject/.idea/studentproject.iml" filepath="$PROJECT_DIR$/../studentproject/.idea/studentproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../templateInheritance/.idea/templateInheritance.iml" filepath="$PROJECT_DIR$/../templateInheritance/.idea/templateInheritance.iml" />
+    </modules>
+  </component>
+</project>

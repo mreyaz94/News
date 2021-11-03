@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous">
+    <link href="{% static 'css/style.css'%}" rel="stylesheet">
+</head>
+<body>
+<a class="btn btn-primary btn-lg" href="/News" role="button"> Back </a>
+<h1>Movie News Head Line of Today ... </h1><hr>
+<ul>
+    <li>{{news1|upper}}</li>
+    <li>{{news2|lower}}</li>
+    <li>{{news3|title}}</li>
+    <li>{{news4}}</li>
+    <li>{{news5}}</li>
+</ul>
+<img src="{% static 'image/ryz2.jpg'%}"/>
+<img src="{% static 'image/ryz2.jpg'%}"/>
+<img src="{% static 'image/ryz2.jpg'%}"/>
+<img src="{% static 'image/ryz2.jpg'%}"/>
+
+
+
+</body>
+</html>

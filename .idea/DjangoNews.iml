@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="authproject1" />
+    <orderEntry type="module" module-name="crudproject" />
+    <orderEntry type="module" module-name="cbvproject1" />
+    <orderEntry type="module" module-name="cbvproject2" />
+    <orderEntry type="module" module-name="cbvproject3" />
+    <orderEntry type="module" module-name="cbvfinalproject" />
+    <orderEntry type="module" module-name="blogproject" />
+    <orderEntry type="module" module-name="blogproject" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
